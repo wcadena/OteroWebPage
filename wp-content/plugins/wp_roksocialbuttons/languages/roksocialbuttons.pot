@@ -1,0 +1,101 @@
+# Copyright (C) 2013 RokSocialButtons
+# This file is distributed under the same license as the RokSocialButtons package.
+msgid ""
+msgstr ""
+"Project-Id-Version: RokSocialButtons 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/roksocialbuttons\n"
+"POT-Creation-Date: 2013-11-13 16:25:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: roksocialbuttons.php:100
+msgid "RokSocialButtons settings saved."
+msgstr ""
+
+#: roksocialbuttons.php:107
+msgid "RokSocialButtons Settings"
+msgstr ""
+
+#: roksocialbuttons.php:116
+msgid "Option Name"
+msgstr ""
+
+#: roksocialbuttons.php:119
+msgid "Value"
+msgstr ""
+
+#: roksocialbuttons.php:129
+msgid "Save Changes"
+msgstr ""
+
+#: roksocialbuttons.php:136
+msgid "AddThis ID"
+msgstr ""
+
+#: roksocialbuttons.php:137
+msgid "Insert your AddThis ID to enable tracking and analytics. Sign-up for a free account at http://www.addthis.com"
+msgstr ""
+
+#: roksocialbuttons.php:145
+msgid "Enable Twitter"
+msgstr ""
+
+#: roksocialbuttons.php:149 roksocialbuttons.php:160 roksocialbuttons.php:171
+msgid "Enabled"
+msgstr ""
+
+#: roksocialbuttons.php:151 roksocialbuttons.php:162 roksocialbuttons.php:173
+msgid "Disabled"
+msgstr ""
+
+#: roksocialbuttons.php:156
+msgid "Enable Facebook"
+msgstr ""
+
+#: roksocialbuttons.php:167
+msgid "Enable Google"
+msgstr ""
+
+#: roksocialbuttons.php:178
+msgid "Prepend Text"
+msgstr ""
+
+#: roksocialbuttons.php:186
+msgid "Extra CSS Class"
+msgstr ""
+
+#: roksocialbuttons.php:194
+msgid "Display Position"
+msgstr ""
+
+#: roksocialbuttons.php:198
+msgid "Before Post Content"
+msgstr ""
+
+#: roksocialbuttons.php:199
+msgid "After Post Content"
+msgstr ""
+
+#: roksocialbuttons.php:205
+msgid "Add Method"
+msgstr ""
+
+#: roksocialbuttons.php:209
+msgid "Only add to Selected Categories"
+msgstr ""
+
+#: roksocialbuttons.php:210
+msgid "Shortcode Method [socialbuttons]"
+msgstr ""
+
+#: roksocialbuttons.php:211
+msgid "Both Shortcode and Selected Categories"
+msgstr ""
+
+#: roksocialbuttons.php:217
+msgid "Category"
+msgstr ""
